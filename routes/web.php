@@ -14,9 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-<<<<<<< HEAD
-    return view('welcome');
-=======
     return view('index');
->>>>>>> 3637579 (first commit)
 });
