@@ -129,21 +129,11 @@
             </div>
         </div>
     </div>
-    <!-- Modal end -->
 </div>
-<!-- JS
-============================================ -->
-
-<!-- Modernizer JS -->
 <script src="{{ asset('assets/frontend') }}/js/vendor/modernizr-3.6.0.min.js"></script>
-<!-- Modernizer JS -->
 <script src="{{ asset('assets/frontend') }}/js/vendor/jquery-3.3.1.min.js"></script>
-<!-- Popper JS -->
 <script src="{{ asset('assets/frontend') }}/js/vendor/popper.js"></script>
-<!-- Bootstrap JS -->
 <script src="{{ asset('assets/frontend') }}/js/vendor/bootstrap.min.js"></script>
-
-<!-- Slick Slider JS -->
 <script src="{{ asset('assets/frontend') }}/js/plugins/countdown.js"></script>
 <script src="{{ asset('assets/frontend') }}/js/plugins/counterup.js"></script>
 <script src="{{ asset('assets/frontend') }}/js/plugins/images-loaded.js"></script>
@@ -161,7 +151,6 @@
 <script src="{{ asset('assets/frontend') }}/js/plugins/elevatezoom.js"></script>
 <script src="{{ asset('assets/frontend') }}/js/plugins/sticky-sidebar.js"></script>
 <script src="{{ asset('assets/frontend') }}/js/plugins/smoothscroll.js"></script>
-<!-- Main JS -->
 <script src="{{ asset('assets/frontend') }}/js/main.js"></script>
 </body>
 
