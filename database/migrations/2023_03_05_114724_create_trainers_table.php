@@ -24,6 +24,7 @@ return new class extends Migration
             $table->integer('view')->nullable();
             $table->integer('rating')->nullable();
             $table->integer('status')->default(0);
+            $table->string('image');
             $table->timestamps();
         });
     }
