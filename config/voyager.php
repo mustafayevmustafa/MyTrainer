@@ -144,13 +144,10 @@ return [
         ],
 
         'widgets' => [
-<<<<<<< HEAD
 
-=======
             'TCG\\Voyager\\Widgets\\UserDimmer',
             'TCG\\Voyager\\Widgets\\PostDimmer',
             'TCG\\Voyager\\Widgets\\PageDimmer',
->>>>>>> origin/T2
         ],
 
     ],
@@ -209,7 +206,6 @@ return [
         'zoom' => env('GOOGLE_MAPS_DEFAULT_ZOOM', 11),
     ],
 
-<<<<<<< HEAD
     /*
     |--------------------------------------------------------------------------
     | Model specific settings
@@ -225,8 +221,6 @@ return [
         'cache' => false,
     ],
 
-=======
->>>>>>> origin/T2
     // Activate compass when environment is NOT local
     'compass_in_production' => false,
 
