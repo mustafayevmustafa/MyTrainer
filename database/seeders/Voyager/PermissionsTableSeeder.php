@@ -1,6 +1,6 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeders\Voyager;
 
 use Illuminate\Database\Seeder;
 use TCG\Voyager\Models\Permission;
@@ -33,6 +33,12 @@ class PermissionsTableSeeder extends Seeder
 
         Permission::generateFor('users');
 
-        Permission::generateFor('settings');
+        Permission::generateFor('pakets');
+
+        Permission::generateFor('sliders');
+
+        Permission::generateFor('trainers');
+
+        Permission::generateFor('customers');
     }
 }

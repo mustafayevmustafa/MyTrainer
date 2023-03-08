@@ -1,6 +1,6 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeders\Voyager;
 
 use Illuminate\Database\Seeder;
 use TCG\Voyager\Models\Menu;

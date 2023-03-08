@@ -1,6 +1,6 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeders\Voyager;
 
 use Illuminate\Database\Seeder;
 use TCG\Voyager\Models\Menu;
@@ -44,7 +44,7 @@ class MenuItemsTableSeeder extends Seeder
                 'target'     => '_self',
                 'icon_class' => 'voyager-images',
                 'color'      => null,
-                'parent_id'  => null,
+                'parent_id'  => 5,
                 'order'      => 5,
             ])->save();
         }
@@ -61,7 +61,7 @@ class MenuItemsTableSeeder extends Seeder
                 'icon_class' => 'voyager-person',
                 'color'      => null,
                 'parent_id'  => null,
-                'order'      => 3,
+                'order'      => 4,
             ])->save();
         }
 
@@ -77,7 +77,7 @@ class MenuItemsTableSeeder extends Seeder
                 'icon_class' => 'voyager-lock',
                 'color'      => null,
                 'parent_id'  => null,
-                'order'      => 2,
+                'order'      => 7,
             ])->save();
         }
 
@@ -92,7 +92,7 @@ class MenuItemsTableSeeder extends Seeder
                 'icon_class' => 'voyager-tools',
                 'color'      => null,
                 'parent_id'  => null,
-                'order'      => 9,
+                'order'      => 8,
             ])->save();
         }
 
@@ -108,7 +108,7 @@ class MenuItemsTableSeeder extends Seeder
                 'icon_class' => 'voyager-list',
                 'color'      => null,
                 'parent_id'  => $toolsMenuItem->id,
-                'order'      => 10,
+                'order'      => 1,
             ])->save();
         }
 

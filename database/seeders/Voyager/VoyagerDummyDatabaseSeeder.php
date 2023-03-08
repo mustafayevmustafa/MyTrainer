@@ -1,7 +1,9 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeders\Voyager;
 
+use Database\Seeders\PostsTableSeeder;
+use Database\Seeders\UsersTableSeeder;
 use Illuminate\Database\Seeder;
 
 class VoyagerDummyDatabaseSeeder extends Seeder
