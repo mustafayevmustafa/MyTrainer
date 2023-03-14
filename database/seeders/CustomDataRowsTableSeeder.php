@@ -397,7 +397,19 @@ class CustomDataRowsTableSeeder extends Seeder
                 "edit" => 1,
                 "add" => 1,
                 "delete" => 1,
-                "details" => "{\"model\":\"App\\\\Models\\\\Trainer\",\"table\":\"trainers\",\"type\":\"belongsTo\",\"column\":\"trainer_id\",\"key\":\"id\",\"label\":\"name\",\"pivot_table\":\"categories\",\"pivot\":\"0\",\"taggable\":\"0\"}",
+//                "details" => "{\"model\":\"App\\\\Models\\\\Trainer\",\"table\":\"trainers\",\"type\":\"belongsTo\",\"column\":\"trainer_id\",\"key\":\"id\",\"label\":\"name\",\"pivot_table\":\"categories\",\"pivot\":\"0\",\"taggable\":\"0\"}",
+                'details'      => [
+                    'model'       => 'App\\Models\\Trainer',
+                    'table'       => 'trainers',
+                    'type'        => 'belongsTo',
+                    'column'      => 'trainer_id',
+                    'key'         => 'id',
+                    'label'       => 'name',
+                    'pivot_table' => 'categories',
+                    'pivot'       => '0 ',
+                    'taggable'    => '0',
+                ],
+
                 "order" => 7,
             ),
             array(
