@@ -1,7 +1,7 @@
 <div class="product-area pb-135">
     <div class="container">
         <div class="section-title text-center mb-40">
-            <h2>Best Sell</h2>
+            <h2>Best Trainer</h2>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
         </div>
         <div class="product-slider-active owl-carousel">
