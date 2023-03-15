@@ -80,3 +80,30 @@
         </div>
     </div>
 </footer>
+</div>
+<script src="{{ asset('assets/frontend') }}/js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/vendor/jquery-3.3.1.min.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/vendor/popper.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/vendor/bootstrap.min.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/countdown.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/counterup.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/images-loaded.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/isotope.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/instafeed.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/jquery-ui.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/jquery-ui-touch-punch.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/magnific-popup.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/owl-carousel.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/scrollup.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/waypoints.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/slick.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/wow.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/textillate.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/elevatezoom.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/sticky-sidebar.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/plugins/smoothscroll.js"></script>
+<script src="{{ asset('assets/frontend') }}/js/main.js"></script>
+</body>
+
+</html>
+
