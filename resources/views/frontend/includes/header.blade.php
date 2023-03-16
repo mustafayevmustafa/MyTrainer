@@ -7,16 +7,16 @@
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/frontend/images/favicon.png') }}">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/vendor/line-awesome.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/vendor/themify.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/plugins/animate.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/plugins/owl-carousel.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/plugins/slick.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/plugins/magnific-popup.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/plugins/jquery-ui.css">
-    <link rel="stylesheet" href="{{ asset('assets/frontend') }}/css/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/Frontend/images/favicon.png') }}">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/vendor/line-awesome.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/vendor/themify.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/plugins/animate.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/plugins/owl-carousel.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/plugins/slick.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/plugins/magnific-popup.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/plugins/jquery-ui.css">
+    <link rel="stylesheet" href="{{ asset('assets/Frontend') }}/css/style.css">
 </head>
 <body>
 <div class="main-wrapper">
@@ -26,10 +26,10 @@
             <div class="row">
                 <div class="col-xl-3 col-lg-3">
                     <div class="logo mt-40">
-                        <a href="index.html"><img src="{{ asset('assets/frontend') }}/images/logo/logo-1.png" alt="logo"></a>
+                        <a href="index.html"><img src="{{ asset('assets/Frontend') }}/images/logo/logo-1.png" alt="logo"></a>
                     </div>
                 </div>
-                <div class="col-xl-7 col-lg-6">
+                <div class="col-xl-8 col-lg-6">
                     <div class="main-menu menu-common-style menu-lh-1 menu-other-style">
                         <nav>
                             <ul>
@@ -50,99 +50,30 @@
 
                                     </ul>
                                 </li>
-                                <li><a href="shop.html">Fitnes Zallar</a></li>
-                                <li class="angle-shape"><a href="#">Pages</a>
-                                    <ul class="submenu">
-                                        <li><a href="about-us.html">about us </a></li>
-                                        <li><a href="cart.html">cart page </a></li>
-                                        <li><a href="checkout.html">checkout </a></li>
-                                        <li><a href="compare.html">compare </a></li>
-                                        <li><a href="wishlist.html">wishlist </a></li>
-                                        <li><a href="my-account.html">my account </a></li>
-                                        <li><a href="contact.html">contact us </a></li>
-                                        <li><a href="login-register.html">login/register </a></li>
-                                    </ul>
+                                <li  class="angle-shape"><a href="shop.html">Fitnes Zallar</a></li>
+                                <li class="angle-shape"><a href="#">Haqqımızda</a>
+
                                 </li>
                                 <li class="angle-shape"><a href="blog.html">Blog</a>
 
                                 </li>
-                                <li><a href="contact.html">Əlaqə</a></li>
+                                <li  class="angle-shape"><a href="contact.html">Əlaqə</a></li>
                             </ul>
                         </nav>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-3">
+                <div class="col-xl-1 col-lg-3">
                     <div class="header-right-wrap mt-40">
-                        <div class="cart-wrap common-style">
-                            <button class="cart-active">
-                                <i class="la la-shopping-cart"></i>
-                                <span class="count-style">2 Items</span>
-                            </button>
-                            <div class="shopping-cart-content">
-                                <div class="shopping-cart-top">
-                                    <h4>Your Cart</h4>
-                                    <a class="cart-close" href="#"><i class="la la-close"></i></a>
-                                </div>
-                                <ul>
-                                    <li class="single-shopping-cart">
-                                        <div class="shopping-cart-img">
-                                            <a href="#"><img alt="" src="{{ asset('assets/frontend') }}/images/cart/cart-1.jpg"></a>
-                                            <div class="item-close">
-                                                <a href="#"><i class="sli sli-close"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="shopping-cart-title">
-                                            <h4><a href="#">Golden Easy Spot Chair.</a></h4>
-                                            <span>$99.00</span>
-                                        </div>
-                                        <div class="shopping-cart-delete">
-                                            <a href="#"><i class="la la-trash"></i></a>
-                                        </div>
-                                    </li>
-                                    <li class="single-shopping-cart">
-                                        <div class="shopping-cart-img">
-                                            <a href="#"><img alt="" src="{{ asset('assets/frontend') }}/images/cart/cart-2.jpg"></a>
-                                            <div class="item-close">
-                                                <a href="#"><i class="sli sli-close"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="shopping-cart-title">
-                                            <h4><a href="#">Golden Easy Spot Chair.</a></h4>
-                                            <span>$99.00</span>
-                                        </div>
-                                        <div class="shopping-cart-delete">
-                                            <a href="#"><i class="la la-trash"></i></a>
-                                        </div>
-                                    </li>
-                                    <li class="single-shopping-cart">
-                                        <div class="shopping-cart-img">
-                                            <a href="#"><img alt="" src="{{ asset('assets/frontend') }}/images/cart/cart-3.jpg"></a>
-                                            <div class="item-close">
-                                                <a href="#"><i class="sli sli-close"></i></a>
-                                            </div>
-                                        </div>
-                                        <div class="shopping-cart-title">
-                                            <h4><a href="#">Golden Easy Spot Chair.</a></h4>
-                                            <span>$99.00</span>
-                                        </div>
-                                        <div class="shopping-cart-delete">
-                                            <a href="#"><i class="la la-trash"></i></a>
-                                        </div>
-                                    </li>
-                                </ul>
-                                <div class="shopping-cart-bottom">
-                                    <div class="shopping-cart-total">
-                                        <h4>Subtotal <span class="shop-total">$290.00</span></h4>
-                                    </div>
-                                    <div class="shopping-cart-btn btn-hover default-btn text-center">
-                                        <a class="black-color" href="checkout.html">Continue to Chackout</a>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="header-wishlist">
+                            <a href="wishlist.html"><i class="la la-heart-o"></i></a>
                         </div>
+
                         <div class="header-login ml-40">
-                            <a href="login-register.html"><i class="la la-user"></i></a>
+                            <a href=" {{ route('register') }}"><i class="la la-user"> </i></a>
+
+
                         </div>
+
                     </div>
 
                 </div>
@@ -156,7 +87,7 @@
                 <div class="col-6">
                     <div class="mobile-logo">
                         <a href="index.html">
-                            <img alt="" src="{{ asset('assets/frontend') }}/images/logo/logo-1.png">
+                            <img alt="" src="{{ asset('assets/Frontend') }}/images/logo/logo-1.png">
                         </a>
                     </div>
                 </div>
@@ -175,7 +106,7 @@
                                 <ul>
                                     <li class="single-shopping-cart">
                                         <div class="shopping-cart-img">
-                                            <a href="#"><img alt="" src="{{ asset('assets/frontend') }}/images/cart/cart-1.jpg"></a>
+                                            <a href="#"><img alt="" src="{{ asset('assets/Frontend') }}/images/cart/cart-1.jpg"></a>
                                             <div class="item-close">
                                                 <a href="#"><i class="sli sli-close"></i></a>
                                             </div>
@@ -190,7 +121,7 @@
                                     </li>
                                     <li class="single-shopping-cart">
                                         <div class="shopping-cart-img">
-                                            <a href="#"><img alt="" src="{{ asset('assets/frontend') }}/assets/images/cart/cart-2.jpg"></a>
+                                            <a href="#"><img alt="" src="{{ asset('assets/Frontend') }}/assets/images/cart/cart-2.jpg"></a>
                                             <div class="item-close">
                                                 <a href="#"><i class="sli sli-close"></i></a>
                                             </div>
@@ -205,7 +136,7 @@
                                     </li>
                                     <li class="single-shopping-cart">
                                         <div class="shopping-cart-img">
-                                            <a href="#"><img alt="" src="{{ asset('assets/frontend') }}/images/cart/cart-3.jpg"></a>
+                                            <a href="#"><img alt="" src="{{ asset('assets/Frontend') }}/images/cart/cart-3.jpg"></a>
                                             <div class="item-close">
                                                 <a href="#"><i class="sli sli-close"></i></a>
                                             </div>

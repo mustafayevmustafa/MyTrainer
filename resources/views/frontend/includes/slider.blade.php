@@ -1,11 +1,11 @@
 <div class="slider-area">
     <div class="slider-active owl-carousel nav-style-1 dot-style-1 nav-dot-left">
-        <div class="single-slider height-100vh bg-img" data-dot="01" style="background-image:url({{ asset('assets/frontend') }}/images/slider/hm1-bg-1.jpg);">
+        <div class="single-slider height-100vh bg-img" data-dot="01" style="background-image:url({{ asset('assets/Frontend') }}/images/slider/hm1-bg-1.jpg);">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-6 col-12 col-sm-6">
                         <div class="slider-sin-img-hm1 slider-sin-mrg1 slider-animated-1">
-                            <img class="animated" src="{{ asset('assets/frontend') }}/images/slider/hm1-single-1.png" alt="">
+                            <img class="animated" src="{{ asset('assets/Frontend') }}/images/slider/hm1-single-1.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-6 col-12 col-sm-6">
@@ -21,12 +21,12 @@
                 </div>
             </div>
         </div>
-        <div class="single-slider height-100vh bg-img" data-dot="02" style="background-image:url({{ asset('assets/frontend') }}/images/slider/hm1-bg-1.jpg);">
+        <div class="single-slider height-100vh bg-img" data-dot="02" style="background-image:url({{ asset('assets/Frontend') }}/images/slider/hm1-bg-1.jpg);">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-6 col-12 col-sm-6">
                         <div class="slider-sin-img-hm1 slider-sin-mrg1 slider-animated-1">
-                            <img class="animated" src="{{ asset('assets/frontend') }}/images/slider/hm1-single-2.png" alt="">
+                            <img class="animated" src="{{ asset('assets/Frontend') }}/images/slider/hm1-single-2.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-6 col-12 col-sm-6">

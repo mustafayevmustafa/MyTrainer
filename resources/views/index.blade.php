@@ -3,7 +3,6 @@
 @section('content')
     @include('frontend.includes.mobil')
     @include('frontend.includes.slider')
-
     @include('frontend.includes.banner')
     @include('frontend.includes.trainer_product')
     @include('frontend.includes.discount')

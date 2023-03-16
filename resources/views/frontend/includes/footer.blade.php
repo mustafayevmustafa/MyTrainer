@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-12 col-sm-6">
                     <div class="footer-widget mb-30">
-                        <a href="#"><img src="{{ asset('assets/frontend') }}/images/logo/logo-1.png" alt="logo"></a>
+                        <a href="#"><img src="{{ asset('assets/Frontend') }}/images/logo/logo-1.png" alt="logo"></a>
                         <div class="footer-social">
                             <span>Follow us:</span>
                             <ul>
@@ -81,28 +81,28 @@
     </div>
 </footer>
 </div>
-<script src="{{ asset('assets/frontend') }}/js/vendor/modernizr-3.6.0.min.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/vendor/jquery-3.3.1.min.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/vendor/popper.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/vendor/bootstrap.min.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/countdown.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/counterup.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/images-loaded.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/isotope.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/instafeed.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/jquery-ui.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/jquery-ui-touch-punch.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/magnific-popup.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/owl-carousel.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/scrollup.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/waypoints.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/slick.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/wow.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/textillate.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/elevatezoom.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/sticky-sidebar.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/plugins/smoothscroll.js"></script>
-<script src="{{ asset('assets/frontend') }}/js/main.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/vendor/jquery-3.3.1.min.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/vendor/popper.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/vendor/bootstrap.min.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/countdown.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/counterup.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/images-loaded.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/isotope.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/instafeed.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/jquery-ui.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/jquery-ui-touch-punch.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/magnific-popup.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/owl-carousel.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/scrollup.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/waypoints.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/slick.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/wow.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/textillate.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/elevatezoom.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/sticky-sidebar.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/plugins/smoothscroll.js"></script>
+<script src="{{ asset('assets/Frontend') }}/js/main.js"></script>
 </body>
 
 </html>

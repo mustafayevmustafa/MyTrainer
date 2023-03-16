@@ -1,13 +1,13 @@
 <div class="product-area pb-135">
     <div class="container">
         <div class="section-title text-center mb-40">
-            <h2>Best Trainer</h2>
+            <h2>“Personal Fitness Trainer” </h2>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
         </div>
         <div class="product-slider-active owl-carousel">
             <div class="product-wrap">
                 <div class="product-img mb-15">
-                    <a href="product-details.html"><img src="{{ asset('assets/frontend') }}/images/product/pro-hm1-1.jpg" alt="product"></a>
+                    <a href="product-details.html"><img src="{{ asset('assets/Frontend') }}/images/product/pro-hm1-1.jpg" alt="product"></a>
                     <div class="product-action">
                         <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class="la la-plus"></i></a>
                         <a title="Wishlist" href="#"><i class="la la-heart-o"></i></a>
@@ -29,7 +29,7 @@
             </div>
             <div class="product-wrap">
                 <div class="product-img mb-15">
-                    <a href="product-details.html"><img src="{{ asset('assets/frontend') }}/images/product/pro-hm1-2.jpg" alt="product"></a>
+                    <a href="product-details.html"><img src="{{ asset('assets/Frontend') }}/images/product/pro-hm1-2.jpg" alt="product"></a>
                     <span class="price-dec">-30%</span>
                     <div class="product-action">
                         <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class="la la-plus"></i></a>
@@ -53,7 +53,7 @@
             </div>
             <div class="product-wrap">
                 <div class="product-img mb-15">
-                    <a href="product-details.html"><img src="{{ asset('assets/frontend') }}/images/product/pro-hm1-3.jpg" alt="product"></a>
+                    <a href="product-details.html"><img src="{{ asset('assets/Frontend') }}/images/product/pro-hm1-3.jpg" alt="product"></a>
                     <span class="new-stock"><span>Stock <br>Out</span></span>
                     <div class="product-action">
                         <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class="la la-plus"></i></a>
@@ -76,7 +76,7 @@
             </div>
             <div class="product-wrap">
                 <div class="product-img mb-15">
-                    <a href="product-details.html"><img src="{{ asset('assets/frontend') }}/images/product/pro-hm1-4.jpg" alt="product"></a>
+                    <a href="product-details.html"><img src="{{ asset('assets/Frontend') }}/images/product/pro-hm1-4.jpg" alt="product"></a>
                     <span class="price-dec font-dec">NEW</span>
                     <div class="product-action">
                         <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class="la la-plus"></i></a>
@@ -100,7 +100,7 @@
             </div>
             <div class="product-wrap">
                 <div class="product-img mb-15">
-                    <a href="product-details.html"><img src="{{ asset('assets/frontend') }}/images/product/pro-hm1-2.jpg" alt="product"></a>
+                    <a href="product-details.html"><img src="{{ asset('assets/Frontend') }}/images/product/pro-hm1-2.jpg" alt="product"></a>
                     <span class="price-dec">-30%</span>
                     <div class="product-action">
                         <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class="la la-plus"></i></a>

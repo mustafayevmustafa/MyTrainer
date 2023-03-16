@@ -4,7 +4,7 @@
             <div class="col-lg-7 col-md-6">
                 <div class="discount-img">
                     <a href="#">
-                        <img src="{{ asset('assets/frontend') }}/images/banner/banner-1.jpg" alt="discount-img">
+                        <img src="{{ asset('assets/Frontend') }}/images/banner/banner-1.jpg" alt="discount-img">
                     </a>
                 </div>
             </div>
